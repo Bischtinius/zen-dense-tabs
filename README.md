@@ -2,7 +2,7 @@
 
 A [Zen-Browser](https://zen-browser.app/) mod that makes your tabs more compact — reducing vertical space for a denser, efficient layout.
 
-![Preview](zen-dense-tabs.png)
+![Preview](zen-dense-tabs.PNG)
 
 ## ✨ Features
 - Shrinks tab and workspace heights using Zen’s built-in CSS variables.
